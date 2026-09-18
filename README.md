@@ -127,8 +127,8 @@ real-estate-project/
 
 ### 2. Clone & Install
 ```bash
-git clone https://github.com/your-username/real-estate-marketplace.git
-cd real-estate-marketplace
+git clone https://github.com/Fahad18-web/real-estate-project.git
+cd real-estate-project
 
 # Install backend dependencies
 cd backend
@@ -140,6 +140,8 @@ npm install
 ```
 
 ### 3. Environment Variables Configuration
+
+Create a `.env` file in the backend and frontend folders using the examples below.
 
 #### Backend (`backend/.env`):
 ```env
@@ -251,6 +253,8 @@ npm run dev
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
-#   r e a l - e s t a t e - p r o j e c t  
- #   r e a l - e s t a t e - p r o j e c t  
+#   r e a l - e s t a t e - p r o j e c t 
+ 
+ #   r e a l - e s t a t e - p r o j e c t 
+ 
  
