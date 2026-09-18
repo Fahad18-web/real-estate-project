@@ -243,7 +243,7 @@ npm run dev
 5. Add Environment Variables from your `backend/.env` file.
 
 ### Deploy Frontend to Vercel
-1. Import repository to Vercel and select Root Directory as `frontend`.
+1. Import the repository to Vercel and select Root Directory as `frontend`.
 2. Framework Preset: **Vite**.
 3. Build Command: `npm run build`
 4. Output Directory: `dist`
